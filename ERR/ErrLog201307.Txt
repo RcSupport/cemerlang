@@ -1,0 +1,181 @@
+
+25/07/2013 11:42:44 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Variable 'GUDANG' is not found.
+25/07/2013 11:42:47 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Variable 'GUDANG' is not found.
+25/07/2013 11:42:50 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Variable 'GUDANG' is not found.
+25/07/2013 11:50:15 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Cannot open file d:\tyas\vfp\cemerlang\data\opname_detail.dbf.
+25/07/2013 11:54:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Variable 'PRODUK' is not found.
+25/07/2013 11:54:08 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Variable 'PRODUK' is not found.
+25/07/2013 11:54:11 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Variable 'PRODUK' is not found.
+25/07/2013 11:58:01 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Variable 'PRODUK' is not found.
+25/07/2013 11:58:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Variable 'PRODUK' is not found.
+25/07/2013 12:37:56 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Variable 'PRODUK' is not found.
+25/07/2013 12:38:48 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Variable 'PRODUK' is not found.
+25/07/2013 12:45:58 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Variable 'PRODUK' is not found.
+25/07/2013 12:45:59 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Variable 'PRODUK' is not found.
+25/07/2013 12:51:52 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Cannot open file d:\tyas\vfp\cemerlang\data\kerja.dbf.
+25/07/2013 12:56:26 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Variable 'PRODUK' is not found.
+25/07/2013 12:56:27 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Variable 'PRODUK' is not found.
+25/07/2013 12:56:28 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Variable 'PRODUK' is not found.
+25/07/2013 12:57:45 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Variable 'KODE' is not found.
+25/07/2013 12:57:48 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Variable 'KODE' is not found.
+25/07/2013 12:57:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Variable 'KODE' is not found.
+25/07/2013 12:58:25 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Data type mismatch.
+25/07/2013 12:58:28 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Data type mismatch.
+25/07/2013 13:10:32 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Data type mismatch.
+25/07/2013 13:10:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Data type mismatch.
+25/07/2013 13:13:56 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Data type mismatch.
+25/07/2013 13:13:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Data type mismatch.
+25/07/2013 13:33:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Data type mismatch.
+25/07/2013 13:33:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Data type mismatch.
+25/07/2013 13:33:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Data type mismatch.
+25/07/2013 13:33:48 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Data type mismatch.
+25/07/2013 13:33:49 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Data type mismatch.
+25/07/2013 13:33:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Data type mismatch.
+25/07/2013 13:33:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Data type mismatch.
+25/07/2013 13:33:53 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Data type mismatch.
+25/07/2013 13:39:25 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 13:39:26 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 13:39:28 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 13:39:28 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 13:39:29 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 13:41:18 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 13:41:20 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 13:41:25 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 13:41:26 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 13:41:26 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 13:41:27 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 13:41:29 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 13:41:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 13:42:18 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 13:42:19 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 13:42:20 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 13:46:58 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 13:46:59 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 13:47:00 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 13:47:01 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 13:47:03 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 13:47:04 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 13:47:04 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 13:47:04 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 13:47:05 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 14:06:42 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+
+Called from - PROCEDURE fntextfile d:\tyas\vfp\cemerlang\progs\myproc.fxp
+Called from - PROCEDURE _msgerrorquery d:\tyas\vfp\cemerlang\progs\myproc.fxp
+Called from - PROCEDURE fnrequery d:\tyas\vfp\cemerlang\progs\myproc.fxp
+Called from - PROCEDURE opname.mvalidasi d:\tyas\vfp\cemerlang\forms\trans\opname.sct
+Called from - PROCEDURE opname._cmd1.mwrite d:\tyas\vfp\cemerlang\forms\trans\opname.sct
+Called from - PROCEDURE opname._cmd1.cmdadd.click d:\tyas\vfp\cemerlang\libs\rc.vct
+25/07/2013 14:09:38 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:09:39 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 14:09:39 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 14:09:40 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 14:09:40 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 14:09:40 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 14:09:40 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 14:09:40 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 14:09:40 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/07/2013 14:14:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Cannot open file d:\tyas\vfp\cemerlang\data\opname_detail.dbf.
+25/07/2013 14:14:44 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Cannot open file d:\tyas\vfp\cemerlang\data\opname_detail.dbf.
+25/07/2013 14:15:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:17:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:17:08 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:17:11 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:17:14 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:17:17 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:17:18 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:17:19 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:17:20 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:17:20 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:19:01 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:19:03 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:19:03 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:19:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:19:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:19:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:19:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:19:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:19:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:20:25 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:20:26 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:20:27 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:20:27 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:20:27 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:20:27 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:20:28 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:20:28 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:20:28 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:23:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS_OP' is not found.
+25/07/2013 14:26:15 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'SUBTOTAL' is not found.
+26/07/2013 09:46:14 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'MATERIAL_ID' is not found.
+26/07/2013 09:46:19 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'MATERIAL_ID' is not found.
+26/07/2013 09:46:58 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'MATERIAL_ID' is not found.
+26/07/2013 09:47:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'MATERIAL_ID' is not found.
+26/07/2013 09:47:14 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'MATERIAL_ID' is not found.
+26/07/2013 09:47:38 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+26/07/2013 10:31:49 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'GUDANGB' is not found.
+26/07/2013 10:33:24 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'GUDANGB' is not found.
+26/07/2013 10:34:31 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'GUDANGB' is not found.
+26/07/2013 10:37:50 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column '     ' is not found.
+26/07/2013 10:41:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column '     ' is not found.
+26/07/2013 10:43:27 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'MATERIAL_ID' is not found.
+26/07/2013 10:51:47 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+27/07/2013 13:50:47 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Cannot open file d:\tyas\vfp\cemerlang\data\opname_detail.dbf.
+27/07/2013 13:51:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANITAS_OP' is not found.
+27/07/2013 13:51:46 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SELECTs are not UNION compatible.
+27/07/2013 13:52:37 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SELECTs are not UNION compatible.
+27/07/2013 13:53:39 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SELECTs are not UNION compatible.
+27/07/2013 13:54:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SELECTs are not UNION compatible.
+27/07/2013 13:54:54 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SELECTs are not UNION compatible.
+27/07/2013 13:57:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SELECTs are not UNION compatible.
+27/07/2013 13:58:20 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SELECTs are not UNION compatible.
+27/07/2013 14:02:22 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Field KELUAR does not accept null values.
+27/07/2013 14:16:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Cannot open file d:\tyas\vfp\cemerlang\data\opname.dbf.
+27/07/2013 14:16:15 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Cannot open file d:\tyas\vfp\cemerlang\data\opname.dbf.
+29/07/2013 11:02:46 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KET' is not found.
+29/07/2013 11:17:18 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Cannot open file d:\tyas\vfp\cemerlang\data\beli_detail.dbf.
+29/07/2013 11:17:29 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'PRODUK_ID' is not found.
+29/07/2013 12:07:54 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'HARGA' is not found.
+29/07/2013 12:26:54 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'PEMASOK_IDLEFT' is not found.
+29/07/2013 12:27:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'PEMASOK_ID' is not found.
+29/07/2013 12:27:16 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'MATERIAL_ID' is not found.
+29/07/2013 12:27:42 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'MATERIAL_ID' is not found.
+29/07/2013 12:27:50 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'MATERIAL_ID' is not found.
+29/07/2013 12:41:54 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Unrecognized command verb.
+29/07/2013 12:46:56 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Unrecognized command verb.
+29/07/2013 12:48:03 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Unrecognized command verb.
+29/07/2013 14:29:01 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+29/07/2013 14:37:18 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+29/07/2013 14:38:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+29/07/2013 14:38:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+29/07/2013 14:56:54 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Operator/operand type mismatch.
+30/07/2013 08:30:01 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS' is not found.
+30/07/2013 08:30:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'GUDANG' is not found.
+30/07/2013 08:30:12 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'GUDANG' is not found.
+30/07/2013 08:31:15 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'GUDANG' is not found.
+30/07/2013 08:32:30 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Function name is missing ).
+30/07/2013 08:32:45 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KETERANGAN' is not found.
+30/07/2013 08:32:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]File 'if.prg' does not exist.
+30/07/2013 08:33:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Too many arguments.
+30/07/2013 09:00:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'HARGA_BELI' is not found.
+30/07/2013 09:19:07 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+30/07/2013 09:19:09 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+30/07/2013 11:53:52 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KETERANGAN' is not found.
+30/07/2013 11:54:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KETERANGAN' is not found.
+31/07/2013 09:08:31 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'NO_POLISI' is not found.
+31/07/2013 09:09:34 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column '     ' is not found.
+31/07/2013 09:15:26 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column '     ' is not found.
+31/07/2013 09:50:33 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column '     ' is not found.
+31/07/2013 14:29:14 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+31/07/2013 14:38:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KET' is not found.
+31/07/2013 14:44:29 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column '     ' is not found.
+31/07/2013 15:13:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column '     ' is not found.
+31/07/2013 15:46:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column '     ' is not found.
+31/07/2013 16:07:31 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Unrecognized command verb.
+31/07/2013 16:14:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column '     ' is not found.
+31/07/2013 16:14:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Unrecognized command verb.
+31/07/2013 16:15:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column '     ' is not found.
+31/07/2013 16:22:18 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column '     ' is not found.
+31/07/2013 16:22:56 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column '     ' is not found.
+31/07/2013 16:23:19 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column '     ' is not found.
+31/07/2013 16:23:32 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column '     ' is not found.

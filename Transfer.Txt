@@ -1,0 +1,501 @@
+
+20/01/2011 09:56:17 - User ID : SysAdmin - Transfer Data Tipe 7
+20/01/2011 09:56:17 - User ID : SysAdmin - Transfer Data Satuan 3
+20/01/2011 09:56:17 - User ID : SysAdmin - Transfer Data Rekening 94
+20/01/2011 09:56:17 - User ID : SysAdmin - Transfer Data Alat 0
+20/01/2011 09:56:17 - User ID : SysAdmin - Transfer Data Absensi 0
+20/01/2011 09:56:17 - User ID : SysAdmin - Transfer Data Asuransi 48
+20/01/2011 09:56:18 - User ID : SysAdmin - Transfer Data Jasa 431
+20/01/2011 09:56:18 - User ID : SysAdmin - Transfer Data Kendaraan 693
+20/01/2011 09:56:18 - User ID : SysAdmin - Transfer Data Material 515
+20/01/2011 09:56:18 - User ID : SysAdmin - Transfer Data Merk 50
+20/01/2011 09:56:18 - User ID : SysAdmin - Transfer Data Pegawai 71
+20/01/2011 09:56:18 - User ID : SysAdmin - Transfer Data Pemilik 696
+20/01/2011 09:56:18 - User ID : SysAdmin - Transfer Data Pinjaman 0
+20/01/2011 09:56:18 - User ID : SysAdmin - Transfer Data Estimasi 0
+20/01/2011 09:56:18 - User ID : SysAdmin - Transfer Data Estimasi Detail 0
+20/01/2011 09:56:21 - User ID : SysAdmin - Transfer Data Bayar 0
+20/01/2011 09:56:21 - User ID : SysAdmin - Transfer Data Kerja 0
+20/01/2011 09:56:21 - User ID : SysAdmin - Transfer Data Kerja Detail 0
+20/01/2011 09:56:24 - User ID : SysAdmin - Transfer Data Jurnal 0
+20/01/2011 09:56:25 - User ID : SysAdmin - Direktori : D:\SWANDY\VFP\CEMERLANG\TEMP\
+20/01/2011 11:32:07 - User ID : SysAdmin - Transfer Data Tipe 7
+20/01/2011 11:32:07 - User ID : SysAdmin - Transfer Data Satuan 3
+20/01/2011 11:32:07 - User ID : SysAdmin - Transfer Data Rekening 94
+20/01/2011 11:32:07 - User ID : SysAdmin - Transfer Data Alat 0
+20/01/2011 11:32:07 - User ID : SysAdmin - Transfer Data Absensi 0
+20/01/2011 11:32:08 - User ID : SysAdmin - Transfer Data Asuransi 48
+20/01/2011 11:32:08 - User ID : SysAdmin - Transfer Data Jasa 431
+20/01/2011 11:32:08 - User ID : SysAdmin - Transfer Data Kendaraan 693
+20/01/2011 11:32:08 - User ID : SysAdmin - Transfer Data Material 515
+20/01/2011 11:32:08 - User ID : SysAdmin - Transfer Data Merk 50
+20/01/2011 11:32:08 - User ID : SysAdmin - Transfer Data Pegawai 71
+20/01/2011 11:32:08 - User ID : SysAdmin - Transfer Data Pemilik 696
+20/01/2011 11:32:08 - User ID : SysAdmin - Transfer Data Pinjaman 0
+20/01/2011 11:32:08 - User ID : SysAdmin - Transfer Data Estimasi 0
+20/01/2011 11:32:08 - User ID : SysAdmin - Transfer Data Estimasi Detail 0
+20/01/2011 11:32:11 - User ID : SysAdmin - Transfer Data Bayar 0
+20/01/2011 11:32:11 - User ID : SysAdmin - Transfer Data Kerja 0
+20/01/2011 11:32:11 - User ID : SysAdmin - Transfer Data Kerja Detail 0
+20/01/2011 11:32:14 - User ID : SysAdmin - Transfer Data Jurnal 0
+20/01/2011 11:32:15 - User ID : SysAdmin - Direktori : D:\SWANDY\VFP\CEMERLANG\TEMP\
+20/01/2011 11:35:54 - User ID : SysAdmin - Transfer Data Tipe 7
+20/01/2011 11:35:54 - User ID : SysAdmin - Transfer Data Satuan 3
+20/01/2011 11:35:54 - User ID : SysAdmin - Transfer Data Rekening 94
+20/01/2011 11:35:54 - User ID : SysAdmin - Transfer Data Alat 0
+20/01/2011 11:35:54 - User ID : SysAdmin - Transfer Data Absensi 0
+20/01/2011 11:35:54 - User ID : SysAdmin - Transfer Data Asuransi 49
+20/01/2011 11:35:54 - User ID : SysAdmin - Transfer Data Jasa 435
+20/01/2011 11:35:54 - User ID : SysAdmin - Transfer Data Kendaraan 724
+20/01/2011 11:35:54 - User ID : SysAdmin - Transfer Data Material 555
+20/01/2011 11:35:54 - User ID : SysAdmin - Transfer Data Merk 50
+20/01/2011 11:35:54 - User ID : SysAdmin - Transfer Data Pegawai 71
+20/01/2011 11:35:54 - User ID : SysAdmin - Transfer Data Pemilik 728
+20/01/2011 11:35:54 - User ID : SysAdmin - Transfer Data Pinjaman 0
+20/01/2011 11:35:54 - User ID : SysAdmin - Transfer Data Estimasi 0
+20/01/2011 11:35:54 - User ID : SysAdmin - Transfer Data Estimasi Detail 0
+20/01/2011 11:35:54 - User ID : SysAdmin - Transfer Data Bayar 0
+20/01/2011 11:35:54 - User ID : SysAdmin - Transfer Data Kerja 0
+20/01/2011 11:35:54 - User ID : SysAdmin - Transfer Data Kerja Detail 0
+20/01/2011 11:35:54 - User ID : SysAdmin - Transfer Data Jurnal 0
+20/01/2011 11:35:55 - User ID : SysAdmin - Direktori : D:\SWANDY\VFP\CEMERLANG\TEMP\
+20/01/2011 11:46:30 - User ID : SysAdmin - Transfer Data Tipe 7
+20/01/2011 11:46:30 - User ID : SysAdmin - Transfer Data Satuan 3
+20/01/2011 11:46:31 - User ID : SysAdmin - Transfer Data Rekening 94
+20/01/2011 11:46:31 - User ID : SysAdmin - Transfer Data Alat 0
+20/01/2011 11:46:31 - User ID : SysAdmin - Transfer Data Absensi 0
+20/01/2011 11:46:31 - User ID : SysAdmin - Transfer Data Asuransi 49
+20/01/2011 11:46:31 - User ID : SysAdmin - Transfer Data Jasa 435
+20/01/2011 11:46:31 - User ID : SysAdmin - Transfer Data Kendaraan 724
+20/01/2011 11:46:31 - User ID : SysAdmin - Transfer Data Material 557
+20/01/2011 11:46:31 - User ID : SysAdmin - Transfer Data Merk 50
+20/01/2011 11:46:31 - User ID : SysAdmin - Transfer Data Pegawai 71
+20/01/2011 11:46:31 - User ID : SysAdmin - Transfer Data Pemilik 728
+20/01/2011 11:46:31 - User ID : SysAdmin - Transfer Data Pinjaman 0
+20/01/2011 11:46:31 - User ID : SysAdmin - Transfer Data Estimasi 0
+20/01/2011 11:46:31 - User ID : SysAdmin - Transfer Data Estimasi Detail 0
+20/01/2011 11:46:38 - User ID : SysAdmin - Transfer Data Bayar 0
+20/01/2011 11:46:38 - User ID : SysAdmin - Transfer Data Kerja 0
+20/01/2011 11:46:38 - User ID : SysAdmin - Transfer Data Kerja Detail 0
+20/01/2011 11:46:45 - User ID : SysAdmin - Transfer Data Jurnal 0
+20/01/2011 11:46:46 - User ID : SysAdmin - Direktori : D:\SWANDY\VFP\CEMERLANG\TEMP\
+20/01/2011 11:49:50 - User ID : SysAdmin - Transfer Data Tipe 7
+20/01/2011 11:49:50 - User ID : SysAdmin - Transfer Data Satuan 3
+20/01/2011 11:49:50 - User ID : SysAdmin - Transfer Data Rekening 94
+20/01/2011 11:49:50 - User ID : SysAdmin - Transfer Data Alat 0
+20/01/2011 11:49:50 - User ID : SysAdmin - Transfer Data Absensi 0
+20/01/2011 11:49:50 - User ID : SysAdmin - Transfer Data Asuransi 49
+20/01/2011 11:49:51 - User ID : SysAdmin - Transfer Data Jasa 436
+20/01/2011 11:49:51 - User ID : SysAdmin - Transfer Data Kendaraan 732
+20/01/2011 11:49:51 - User ID : SysAdmin - Transfer Data Material 563
+20/01/2011 11:49:51 - User ID : SysAdmin - Transfer Data Merk 50
+20/01/2011 11:49:51 - User ID : SysAdmin - Transfer Data Pegawai 71
+20/01/2011 11:49:51 - User ID : SysAdmin - Transfer Data Pemilik 736
+20/01/2011 11:49:51 - User ID : SysAdmin - Transfer Data Pinjaman 0
+20/01/2011 11:49:51 - User ID : SysAdmin - Transfer Data Estimasi 0
+20/01/2011 11:49:51 - User ID : SysAdmin - Transfer Data Estimasi Detail 0
+20/01/2011 11:49:58 - User ID : SysAdmin - Transfer Data Bayar 0
+20/01/2011 11:49:58 - User ID : SysAdmin - Transfer Data Kerja 0
+20/01/2011 11:49:58 - User ID : SysAdmin - Transfer Data Kerja Detail 0
+20/01/2011 11:50:05 - User ID : SysAdmin - Transfer Data Jurnal 0
+20/01/2011 11:50:06 - User ID : SysAdmin - Direktori : D:\SWANDY\VFP\CEMERLANG\TEMP\
+20/01/2011 11:57:30 - User ID : SysAdmin - Transfer Data Tipe 7
+20/01/2011 11:57:30 - User ID : SysAdmin - Transfer Data Satuan 3
+20/01/2011 11:57:30 - User ID : SysAdmin - Transfer Data Rekening 94
+20/01/2011 11:57:30 - User ID : SysAdmin - Transfer Data Alat 0
+20/01/2011 11:57:30 - User ID : SysAdmin - Transfer Data Absensi 0
+20/01/2011 11:57:31 - User ID : SysAdmin - Transfer Data Asuransi 51
+20/01/2011 11:57:31 - User ID : SysAdmin - Transfer Data Jasa 444
+20/01/2011 11:57:31 - User ID : SysAdmin - Transfer Data Kendaraan 758
+20/01/2011 11:57:31 - User ID : SysAdmin - Transfer Data Material 572
+20/01/2011 11:57:31 - User ID : SysAdmin - Transfer Data Merk 50
+20/01/2011 11:57:31 - User ID : SysAdmin - Transfer Data Pegawai 71
+20/01/2011 11:57:31 - User ID : SysAdmin - Transfer Data Pemilik 762
+20/01/2011 11:57:31 - User ID : SysAdmin - Transfer Data Pinjaman 0
+20/01/2011 11:57:31 - User ID : SysAdmin - Transfer Data Estimasi 0
+20/01/2011 11:57:31 - User ID : SysAdmin - Transfer Data Estimasi Detail 0
+20/01/2011 11:57:41 - User ID : SysAdmin - Transfer Data Bayar 0
+20/01/2011 11:57:41 - User ID : SysAdmin - Transfer Data Kerja 0
+20/01/2011 11:57:41 - User ID : SysAdmin - Transfer Data Kerja Detail 0
+20/01/2011 11:57:51 - User ID : SysAdmin - Transfer Data Jurnal 0
+20/01/2011 11:57:52 - User ID : SysAdmin - Direktori : D:\SWANDY\VFP\CEMERLANG\TEMP\
+20/01/2011 12:00:12 - User ID : SysAdmin - Transfer Data Tipe 7
+20/01/2011 12:00:12 - User ID : SysAdmin - Transfer Data Satuan 3
+20/01/2011 12:00:12 - User ID : SysAdmin - Transfer Data Rekening 94
+20/01/2011 12:00:12 - User ID : SysAdmin - Transfer Data Alat 0
+20/01/2011 12:00:12 - User ID : SysAdmin - Transfer Data Absensi 0
+20/01/2011 12:00:12 - User ID : SysAdmin - Transfer Data Asuransi 51
+20/01/2011 12:00:12 - User ID : SysAdmin - Transfer Data Jasa 444
+20/01/2011 12:00:12 - User ID : SysAdmin - Transfer Data Kendaraan 758
+20/01/2011 12:00:12 - User ID : SysAdmin - Transfer Data Material 572
+20/01/2011 12:00:12 - User ID : SysAdmin - Transfer Data Merk 50
+20/01/2011 12:00:12 - User ID : SysAdmin - Transfer Data Pegawai 71
+20/01/2011 12:00:12 - User ID : SysAdmin - Transfer Data Pemilik 762
+20/01/2011 12:00:12 - User ID : SysAdmin - Transfer Data Pinjaman 0
+20/01/2011 12:00:12 - User ID : SysAdmin - Transfer Data Estimasi 0
+20/01/2011 12:00:12 - User ID : SysAdmin - Transfer Data Estimasi Detail 0
+20/01/2011 12:00:22 - User ID : SysAdmin - Transfer Data Bayar 0
+20/01/2011 12:00:22 - User ID : SysAdmin - Transfer Data Kerja 0
+20/01/2011 12:00:22 - User ID : SysAdmin - Transfer Data Kerja Detail 0
+20/01/2011 12:00:32 - User ID : SysAdmin - Transfer Data Jurnal 0
+20/01/2011 12:00:33 - User ID : SysAdmin - Direktori : D:\SWANDY\VFP\CEMERLANG\TEMP\
+20/01/2011 12:05:23 - User ID : SysAdmin - Transfer Data Tipe 7
+20/01/2011 12:05:23 - User ID : SysAdmin - Transfer Data Satuan 3
+20/01/2011 12:05:23 - User ID : SysAdmin - Transfer Data Rekening 95
+20/01/2011 12:05:23 - User ID : SysAdmin - Transfer Data Alat 0
+20/01/2011 12:05:23 - User ID : SysAdmin - Transfer Data Absensi 0
+20/01/2011 12:05:23 - User ID : SysAdmin - Transfer Data Asuransi 51
+20/01/2011 12:05:23 - User ID : SysAdmin - Transfer Data Jasa 449
+20/01/2011 12:05:24 - User ID : SysAdmin - Transfer Data Kendaraan 772
+20/01/2011 12:05:24 - User ID : SysAdmin - Transfer Data Material 599
+20/01/2011 12:05:24 - User ID : SysAdmin - Transfer Data Merk 50
+20/01/2011 12:05:24 - User ID : SysAdmin - Transfer Data Pegawai 71
+20/01/2011 12:05:24 - User ID : SysAdmin - Transfer Data Pemilik 776
+20/01/2011 12:05:24 - User ID : SysAdmin - Transfer Data Pinjaman 0
+20/01/2011 12:05:24 - User ID : SysAdmin - Transfer Data Estimasi 0
+20/01/2011 12:05:24 - User ID : SysAdmin - Transfer Data Estimasi Detail 0
+20/01/2011 12:05:33 - User ID : SysAdmin - Transfer Data Bayar 0
+20/01/2011 12:05:33 - User ID : SysAdmin - Transfer Data Kerja 0
+20/01/2011 12:05:33 - User ID : SysAdmin - Transfer Data Kerja Detail 0
+20/01/2011 12:05:45 - User ID : SysAdmin - Transfer Data Jurnal 0
+20/01/2011 12:05:45 - User ID : SysAdmin - Direktori : D:\SWANDY\VFP\CEMERLANG\TEMP\
+20/01/2011 12:10:03 - User ID : SysAdmin - Transfer Data Tipe 7
+20/01/2011 12:10:03 - User ID : SysAdmin - Transfer Data Satuan 3
+20/01/2011 12:10:03 - User ID : SysAdmin - Transfer Data Rekening 95
+20/01/2011 12:10:03 - User ID : SysAdmin - Transfer Data Alat 0
+20/01/2011 12:10:03 - User ID : SysAdmin - Transfer Data Absensi 0
+20/01/2011 12:10:03 - User ID : SysAdmin - Transfer Data Asuransi 51
+20/01/2011 12:10:03 - User ID : SysAdmin - Transfer Data Jasa 449
+20/01/2011 12:10:03 - User ID : SysAdmin - Transfer Data Kendaraan 786
+20/01/2011 12:10:04 - User ID : SysAdmin - Transfer Data Material 610
+20/01/2011 12:10:04 - User ID : SysAdmin - Transfer Data Merk 50
+20/01/2011 12:10:04 - User ID : SysAdmin - Transfer Data Pegawai 71
+20/01/2011 12:10:04 - User ID : SysAdmin - Transfer Data Pemilik 790
+20/01/2011 12:10:04 - User ID : SysAdmin - Transfer Data Pinjaman 0
+20/01/2011 12:10:04 - User ID : SysAdmin - Transfer Data Estimasi 0
+20/01/2011 12:10:04 - User ID : SysAdmin - Transfer Data Estimasi Detail 0
+20/01/2011 12:10:14 - User ID : SysAdmin - Transfer Data Bayar 0
+20/01/2011 12:10:14 - User ID : SysAdmin - Transfer Data Kerja 0
+20/01/2011 12:10:14 - User ID : SysAdmin - Transfer Data Kerja Detail 0
+20/01/2011 12:10:27 - User ID : SysAdmin - Transfer Data Jurnal 0
+20/01/2011 12:10:28 - User ID : SysAdmin - Direktori : D:\SWANDY\VFP\CEMERLANG\TEMP\
+20/01/2011 12:13:30 - User ID : SysAdmin - Transfer Data Tipe 7
+20/01/2011 12:13:30 - User ID : SysAdmin - Transfer Data Satuan 3
+20/01/2011 12:13:30 - User ID : SysAdmin - Transfer Data Rekening 95
+20/01/2011 12:13:30 - User ID : SysAdmin - Transfer Data Alat 0
+20/01/2011 12:13:30 - User ID : SysAdmin - Transfer Data Absensi 0
+20/01/2011 12:13:30 - User ID : SysAdmin - Transfer Data Asuransi 51
+20/01/2011 12:13:30 - User ID : SysAdmin - Transfer Data Jasa 449
+20/01/2011 12:13:30 - User ID : SysAdmin - Transfer Data Kendaraan 786
+20/01/2011 12:13:31 - User ID : SysAdmin - Transfer Data Material 610
+20/01/2011 12:13:31 - User ID : SysAdmin - Transfer Data Merk 50
+20/01/2011 12:13:31 - User ID : SysAdmin - Transfer Data Pegawai 71
+20/01/2011 12:13:31 - User ID : SysAdmin - Transfer Data Pemilik 790
+20/01/2011 12:13:31 - User ID : SysAdmin - Transfer Data Pinjaman 0
+20/01/2011 12:13:31 - User ID : SysAdmin - Transfer Data Estimasi 0
+20/01/2011 12:13:31 - User ID : SysAdmin - Transfer Data Estimasi Detail 0
+20/01/2011 12:13:41 - User ID : SysAdmin - Transfer Data Bayar 0
+20/01/2011 12:13:41 - User ID : SysAdmin - Transfer Data Kerja 0
+20/01/2011 12:13:41 - User ID : SysAdmin - Transfer Data Kerja Detail 0
+20/01/2011 12:13:54 - User ID : SysAdmin - Transfer Data Jurnal 0
+20/01/2011 12:13:55 - User ID : SysAdmin - Direktori : D:\SWANDY\VFP\CEMERLANG\TEMP\
+20/01/2011 12:17:54 - User ID : SysAdmin - Transfer Data Tipe 7
+20/01/2011 12:17:54 - User ID : SysAdmin - Transfer Data Satuan 3
+20/01/2011 12:17:54 - User ID : SysAdmin - Transfer Data Rekening 95
+20/01/2011 12:17:54 - User ID : SysAdmin - Transfer Data Alat 0
+20/01/2011 12:17:54 - User ID : SysAdmin - Transfer Data Absensi 0
+20/01/2011 12:17:54 - User ID : SysAdmin - Transfer Data Asuransi 52
+20/01/2011 12:17:54 - User ID : SysAdmin - Transfer Data Jasa 449
+20/01/2011 12:17:54 - User ID : SysAdmin - Transfer Data Kendaraan 789
+20/01/2011 12:17:54 - User ID : SysAdmin - Transfer Data Material 613
+20/01/2011 12:17:54 - User ID : SysAdmin - Transfer Data Merk 50
+20/01/2011 12:17:54 - User ID : SysAdmin - Transfer Data Pegawai 71
+20/01/2011 12:17:54 - User ID : SysAdmin - Transfer Data Pemilik 794
+20/01/2011 12:17:54 - User ID : SysAdmin - Transfer Data Pinjaman 0
+20/01/2011 12:17:54 - User ID : SysAdmin - Transfer Data Estimasi 0
+20/01/2011 12:17:54 - User ID : SysAdmin - Transfer Data Estimasi Detail 0
+20/01/2011 12:18:04 - User ID : SysAdmin - Transfer Data Bayar 0
+20/01/2011 12:18:04 - User ID : SysAdmin - Transfer Data Kerja 0
+20/01/2011 12:18:04 - User ID : SysAdmin - Transfer Data Kerja Detail 0
+20/01/2011 12:18:18 - User ID : SysAdmin - Transfer Data Jurnal 0
+20/01/2011 12:18:19 - User ID : SysAdmin - Direktori : D:\SWANDY\VFP\CEMERLANG\TEMP\
+20/01/2011 12:22:18 - User ID : SysAdmin - Transfer Data Tipe 7
+20/01/2011 12:22:18 - User ID : SysAdmin - Transfer Data Satuan 3
+20/01/2011 12:22:18 - User ID : SysAdmin - Transfer Data Rekening 95
+20/01/2011 12:22:18 - User ID : SysAdmin - Transfer Data Alat 0
+20/01/2011 12:22:18 - User ID : SysAdmin - Transfer Data Absensi 0
+20/01/2011 12:22:18 - User ID : SysAdmin - Transfer Data Asuransi 52
+20/01/2011 12:22:18 - User ID : SysAdmin - Transfer Data Jasa 449
+20/01/2011 12:22:18 - User ID : SysAdmin - Transfer Data Kendaraan 789
+20/01/2011 12:22:19 - User ID : SysAdmin - Transfer Data Material 613
+20/01/2011 12:22:19 - User ID : SysAdmin - Transfer Data Merk 50
+20/01/2011 12:22:19 - User ID : SysAdmin - Transfer Data Pegawai 71
+20/01/2011 12:22:19 - User ID : SysAdmin - Transfer Data Pemilik 794
+20/01/2011 12:22:19 - User ID : SysAdmin - Transfer Data Pinjaman 0
+20/01/2011 12:22:19 - User ID : SysAdmin - Transfer Data Estimasi 0
+20/01/2011 12:22:19 - User ID : SysAdmin - Transfer Data Estimasi Detail 0
+20/01/2011 12:22:29 - User ID : SysAdmin - Transfer Data Bayar 0
+20/01/2011 12:22:29 - User ID : SysAdmin - Transfer Data Kerja 0
+20/01/2011 12:22:29 - User ID : SysAdmin - Transfer Data Kerja Detail 0
+20/01/2011 12:22:43 - User ID : SysAdmin - Transfer Data Jurnal 0
+20/01/2011 12:22:43 - User ID : SysAdmin - Direktori : D:\SWANDY\VFP\CEMERLANG\TEMP\
+20/01/2011 12:26:51 - User ID : SysAdmin - Transfer Data Tipe 7
+20/01/2011 12:26:51 - User ID : SysAdmin - Transfer Data Satuan 3
+20/01/2011 12:26:51 - User ID : SysAdmin - Transfer Data Rekening 96
+20/01/2011 12:26:51 - User ID : SysAdmin - Transfer Data Alat 0
+20/01/2011 12:26:51 - User ID : SysAdmin - Transfer Data Absensi 0
+20/01/2011 12:26:51 - User ID : SysAdmin - Transfer Data Asuransi 52
+20/01/2011 12:26:51 - User ID : SysAdmin - Transfer Data Jasa 451
+20/01/2011 12:26:51 - User ID : SysAdmin - Transfer Data Kendaraan 799
+20/01/2011 12:26:51 - User ID : SysAdmin - Transfer Data Material 619
+20/01/2011 12:26:51 - User ID : SysAdmin - Transfer Data Merk 50
+20/01/2011 12:26:51 - User ID : SysAdmin - Transfer Data Pegawai 71
+20/01/2011 12:26:51 - User ID : SysAdmin - Transfer Data Pemilik 805
+20/01/2011 12:26:51 - User ID : SysAdmin - Transfer Data Pinjaman 0
+20/01/2011 12:26:51 - User ID : SysAdmin - Transfer Data Estimasi 0
+20/01/2011 12:26:51 - User ID : SysAdmin - Transfer Data Estimasi Detail 0
+20/01/2011 12:27:03 - User ID : SysAdmin - Transfer Data Bayar 0
+20/01/2011 12:27:03 - User ID : SysAdmin - Transfer Data Kerja 0
+20/01/2011 12:27:03 - User ID : SysAdmin - Transfer Data Kerja Detail 0
+20/01/2011 12:27:18 - User ID : SysAdmin - Transfer Data Jurnal 0
+20/01/2011 12:27:19 - User ID : SysAdmin - Direktori : D:\SWANDY\VFP\CEMERLANG\TEMP\
+20/01/2011 12:29:23 - User ID : SysAdmin - Transfer Data Tipe 7
+20/01/2011 12:29:23 - User ID : SysAdmin - Transfer Data Satuan 3
+20/01/2011 12:29:23 - User ID : SysAdmin - Transfer Data Rekening 96
+20/01/2011 12:29:23 - User ID : SysAdmin - Transfer Data Alat 0
+20/01/2011 12:29:23 - User ID : SysAdmin - Transfer Data Absensi 0
+20/01/2011 12:29:23 - User ID : SysAdmin - Transfer Data Asuransi 52
+20/01/2011 12:29:23 - User ID : SysAdmin - Transfer Data Jasa 451
+20/01/2011 12:29:24 - User ID : SysAdmin - Transfer Data Kendaraan 799
+20/01/2011 12:29:24 - User ID : SysAdmin - Transfer Data Material 619
+20/01/2011 12:29:24 - User ID : SysAdmin - Transfer Data Merk 50
+20/01/2011 12:29:24 - User ID : SysAdmin - Transfer Data Pegawai 71
+20/01/2011 12:29:24 - User ID : SysAdmin - Transfer Data Pemilik 805
+20/01/2011 12:29:24 - User ID : SysAdmin - Transfer Data Pinjaman 0
+20/01/2011 12:29:24 - User ID : SysAdmin - Transfer Data Estimasi 0
+20/01/2011 12:29:24 - User ID : SysAdmin - Transfer Data Estimasi Detail 0
+20/01/2011 12:29:36 - User ID : SysAdmin - Transfer Data Bayar 0
+20/01/2011 12:29:36 - User ID : SysAdmin - Transfer Data Kerja 0
+20/01/2011 12:29:36 - User ID : SysAdmin - Transfer Data Kerja Detail 0
+20/01/2011 12:29:51 - User ID : SysAdmin - Transfer Data Jurnal 0
+20/01/2011 12:29:51 - User ID : SysAdmin - Direktori : D:\SWANDY\VFP\CEMERLANG\TEMP\
+20/01/2011 12:33:41 - User ID : ADMIN - Transfer Data Tipe 7
+20/01/2011 12:33:41 - User ID : ADMIN - Transfer Data Satuan 3
+20/01/2011 12:33:41 - User ID : ADMIN - Transfer Data Rekening 96
+20/01/2011 12:33:41 - User ID : ADMIN - Transfer Data Alat 0
+20/01/2011 12:33:41 - User ID : ADMIN - Transfer Data Absensi 0
+20/01/2011 12:33:41 - User ID : ADMIN - Transfer Data Asuransi 52
+20/01/2011 12:33:41 - User ID : ADMIN - Transfer Data Jasa 458
+20/01/2011 12:33:42 - User ID : ADMIN - Transfer Data Kendaraan 805
+20/01/2011 12:33:42 - User ID : ADMIN - Transfer Data Material 625
+20/01/2011 12:33:42 - User ID : ADMIN - Transfer Data Merk 50
+20/01/2011 12:33:42 - User ID : ADMIN - Transfer Data Pegawai 71
+20/01/2011 12:33:42 - User ID : ADMIN - Transfer Data Pemilik 811
+20/01/2011 12:33:42 - User ID : ADMIN - Transfer Data Pinjaman 0
+20/01/2011 12:33:42 - User ID : ADMIN - Transfer Data Estimasi 0
+20/01/2011 12:33:42 - User ID : ADMIN - Transfer Data Estimasi Detail 0
+20/01/2011 12:33:55 - User ID : ADMIN - Transfer Data Bayar 0
+20/01/2011 12:33:55 - User ID : ADMIN - Transfer Data Kerja 0
+20/01/2011 12:33:55 - User ID : ADMIN - Transfer Data Kerja Detail 0
+20/01/2011 12:34:11 - User ID : ADMIN - Transfer Data Jurnal 0
+20/01/2011 12:34:11 - User ID : ADMIN - Direktori : D:\SWANDY\VFP\CEMERLANG\TEMP\
+20/01/2011 13:44:54 - User ID : SysAdmin - Transfer Data Tipe 7
+20/01/2011 13:44:54 - User ID : SysAdmin - Transfer Data Satuan 3
+20/01/2011 13:44:54 - User ID : SysAdmin - Transfer Data Rekening 94
+20/01/2011 13:44:54 - User ID : SysAdmin - Transfer Data Alat 0
+20/01/2011 13:44:54 - User ID : SysAdmin - Transfer Data Absensi 630
+20/01/2011 13:44:54 - User ID : SysAdmin - Transfer Data Asuransi 48
+20/01/2011 13:44:55 - User ID : SysAdmin - Transfer Data Jasa 431
+20/01/2011 13:44:55 - User ID : SysAdmin - Transfer Data Kendaraan 693
+20/01/2011 13:44:55 - User ID : SysAdmin - Transfer Data Material 515
+20/01/2011 13:44:55 - User ID : SysAdmin - Transfer Data Merk 50
+20/01/2011 13:44:55 - User ID : SysAdmin - Transfer Data Pegawai 71
+20/01/2011 13:44:55 - User ID : SysAdmin - Transfer Data Pemilik 696
+20/01/2011 13:44:55 - User ID : SysAdmin - Transfer Data Pinjaman 46
+20/01/2011 13:44:55 - User ID : SysAdmin - Transfer Data Estimasi 170
+20/01/2011 13:44:55 - User ID : SysAdmin - Transfer Data Estimasi Detail 668
+20/01/2011 13:45:11 - User ID : SysAdmin - Transfer Data Bayar 198
+20/01/2011 13:45:11 - User ID : SysAdmin - Transfer Data Kerja 117
+20/01/2011 13:45:11 - User ID : SysAdmin - Transfer Data Kerja Detail 404
+20/01/2011 13:45:21 - User ID : SysAdmin - Transfer Data Jurnal 758
+20/01/2011 13:45:22 - User ID : SysAdmin - Direktori : D:\SWANDY\VFP\CEMERLANG\TEMP\
+20/01/2011 13:51:21 - User ID : SysAdmin - Transfer Data Tipe 7
+20/01/2011 13:51:21 - User ID : SysAdmin - Transfer Data Satuan 3
+20/01/2011 13:51:21 - User ID : SysAdmin - Transfer Data Rekening 94
+20/01/2011 13:51:21 - User ID : SysAdmin - Transfer Data Alat 0
+20/01/2011 13:51:21 - User ID : SysAdmin - Transfer Data Absensi 827
+20/01/2011 13:51:21 - User ID : SysAdmin - Transfer Data Asuransi 49
+20/01/2011 13:51:21 - User ID : SysAdmin - Transfer Data Jasa 435
+20/01/2011 13:51:21 - User ID : SysAdmin - Transfer Data Kendaraan 724
+20/01/2011 13:51:21 - User ID : SysAdmin - Transfer Data Material 555
+20/01/2011 13:51:21 - User ID : SysAdmin - Transfer Data Merk 50
+20/01/2011 13:51:21 - User ID : SysAdmin - Transfer Data Pegawai 71
+20/01/2011 13:51:21 - User ID : SysAdmin - Transfer Data Pemilik 728
+20/01/2011 13:51:21 - User ID : SysAdmin - Transfer Data Pinjaman 49
+20/01/2011 13:51:22 - User ID : SysAdmin - Transfer Data Estimasi 207
+20/01/2011 13:51:22 - User ID : SysAdmin - Transfer Data Estimasi Detail 871
+20/01/2011 13:51:43 - User ID : SysAdmin - Transfer Data Bayar 244
+20/01/2011 13:51:43 - User ID : SysAdmin - Transfer Data Kerja 147
+20/01/2011 13:51:43 - User ID : SysAdmin - Transfer Data Kerja Detail 567
+20/01/2011 13:51:58 - User ID : SysAdmin - Transfer Data Jurnal 1008
+20/01/2011 13:51:58 - User ID : SysAdmin - Direktori : D:\SWANDY\VFP\CEMERLANG\TEMP\
+20/01/2011 14:07:35 - User ID : SysAdmin - Transfer Data Tipe 7
+20/01/2011 14:07:35 - User ID : SysAdmin - Transfer Data Satuan 3
+20/01/2011 14:07:35 - User ID : SysAdmin - Transfer Data Rekening 94
+20/01/2011 14:07:35 - User ID : SysAdmin - Transfer Data Alat 0
+20/01/2011 14:07:35 - User ID : SysAdmin - Transfer Data Absensi 827
+20/01/2011 14:07:35 - User ID : SysAdmin - Transfer Data Asuransi 49
+20/01/2011 14:07:35 - User ID : SysAdmin - Transfer Data Jasa 435
+20/01/2011 14:07:35 - User ID : SysAdmin - Transfer Data Kendaraan 724
+20/01/2011 14:07:36 - User ID : SysAdmin - Transfer Data Material 557
+20/01/2011 14:07:36 - User ID : SysAdmin - Transfer Data Merk 50
+20/01/2011 14:07:36 - User ID : SysAdmin - Transfer Data Pegawai 71
+20/01/2011 14:07:36 - User ID : SysAdmin - Transfer Data Pemilik 728
+20/01/2011 14:07:36 - User ID : SysAdmin - Transfer Data Pinjaman 50
+20/01/2011 14:07:36 - User ID : SysAdmin - Transfer Data Estimasi 207
+20/01/2011 14:07:36 - User ID : SysAdmin - Transfer Data Estimasi Detail 872
+20/01/2011 14:08:16 - User ID : SysAdmin - Transfer Data Bayar 248
+20/01/2011 14:08:16 - User ID : SysAdmin - Transfer Data Kerja 147
+20/01/2011 14:08:16 - User ID : SysAdmin - Transfer Data Kerja Detail 567
+20/01/2011 14:08:34 - User ID : SysAdmin - Transfer Data Jurnal 1012
+20/01/2011 14:08:35 - User ID : SysAdmin - Direktori : D:\SWANDY\VFP\CEMERLANG\TEMP\
+20/01/2011 14:21:34 - User ID : SysAdmin - Transfer Data Tipe 7
+20/01/2011 14:21:34 - User ID : SysAdmin - Transfer Data Satuan 3
+20/01/2011 14:21:34 - User ID : SysAdmin - Transfer Data Rekening 94
+20/01/2011 14:21:34 - User ID : SysAdmin - Transfer Data Alat 0
+20/01/2011 14:21:35 - User ID : SysAdmin - Transfer Data Absensi 827
+20/01/2011 14:21:35 - User ID : SysAdmin - Transfer Data Asuransi 49
+20/01/2011 14:21:35 - User ID : SysAdmin - Transfer Data Jasa 436
+20/01/2011 14:21:35 - User ID : SysAdmin - Transfer Data Kendaraan 732
+20/01/2011 14:21:35 - User ID : SysAdmin - Transfer Data Material 563
+20/01/2011 14:21:35 - User ID : SysAdmin - Transfer Data Merk 50
+20/01/2011 14:21:35 - User ID : SysAdmin - Transfer Data Pegawai 71
+20/01/2011 14:21:35 - User ID : SysAdmin - Transfer Data Pemilik 736
+20/01/2011 14:21:35 - User ID : SysAdmin - Transfer Data Pinjaman 50
+20/01/2011 14:21:35 - User ID : SysAdmin - Transfer Data Estimasi 216
+20/01/2011 14:21:35 - User ID : SysAdmin - Transfer Data Estimasi Detail 920
+20/01/2011 14:21:36 - User ID : SysAdmin - Transfer Data Bayar 254
+20/01/2011 14:21:36 - User ID : SysAdmin - Transfer Data Kerja 150
+20/01/2011 14:21:36 - User ID : SysAdmin - Transfer Data Kerja Detail 571
+20/01/2011 14:21:37 - User ID : SysAdmin - Transfer Data Jurnal 1028
+20/01/2011 14:21:37 - User ID : SysAdmin - Direktori : D:\SWANDY\VFP\CEMERLANG\TEMP\
+20/01/2011 14:23:57 - User ID : SysAdmin - Transfer Data Tipe 7
+20/01/2011 14:23:58 - User ID : SysAdmin - Transfer Data Satuan 3
+20/01/2011 14:23:58 - User ID : SysAdmin - Transfer Data Rekening 94
+20/01/2011 14:23:58 - User ID : SysAdmin - Transfer Data Alat 0
+20/01/2011 14:23:58 - User ID : SysAdmin - Transfer Data Absensi 953
+20/01/2011 14:23:58 - User ID : SysAdmin - Transfer Data Asuransi 51
+20/01/2011 14:23:58 - User ID : SysAdmin - Transfer Data Jasa 444
+20/01/2011 14:23:58 - User ID : SysAdmin - Transfer Data Kendaraan 758
+20/01/2011 14:23:58 - User ID : SysAdmin - Transfer Data Material 572
+20/01/2011 14:23:58 - User ID : SysAdmin - Transfer Data Merk 50
+20/01/2011 14:23:58 - User ID : SysAdmin - Transfer Data Pegawai 71
+20/01/2011 14:23:58 - User ID : SysAdmin - Transfer Data Pemilik 762
+20/01/2011 14:23:58 - User ID : SysAdmin - Transfer Data Pinjaman 50
+20/01/2011 14:23:58 - User ID : SysAdmin - Transfer Data Estimasi 251
+20/01/2011 14:23:59 - User ID : SysAdmin - Transfer Data Estimasi Detail 1012
+20/01/2011 14:23:59 - User ID : SysAdmin - Transfer Data Bayar 299
+20/01/2011 14:23:59 - User ID : SysAdmin - Transfer Data Kerja 190
+20/01/2011 14:23:59 - User ID : SysAdmin - Transfer Data Kerja Detail 684
+20/01/2011 14:24:00 - User ID : SysAdmin - Transfer Data Jurnal 1226
+20/01/2011 14:24:01 - User ID : SysAdmin - Direktori : D:\SWANDY\VFP\CEMERLANG\TEMP\
+20/01/2011 14:25:29 - User ID : SysAdmin - Transfer Data Tipe 7
+20/01/2011 14:25:29 - User ID : SysAdmin - Transfer Data Satuan 3
+20/01/2011 14:25:29 - User ID : SysAdmin - Transfer Data Rekening 95
+20/01/2011 14:25:29 - User ID : SysAdmin - Transfer Data Alat 0
+20/01/2011 14:25:29 - User ID : SysAdmin - Transfer Data Absensi 1016
+20/01/2011 14:25:29 - User ID : SysAdmin - Transfer Data Asuransi 51
+20/01/2011 14:25:29 - User ID : SysAdmin - Transfer Data Jasa 449
+20/01/2011 14:25:29 - User ID : SysAdmin - Transfer Data Kendaraan 772
+20/01/2011 14:25:29 - User ID : SysAdmin - Transfer Data Material 599
+20/01/2011 14:25:29 - User ID : SysAdmin - Transfer Data Merk 50
+20/01/2011 14:25:29 - User ID : SysAdmin - Transfer Data Pegawai 71
+20/01/2011 14:25:29 - User ID : SysAdmin - Transfer Data Pemilik 776
+20/01/2011 14:25:29 - User ID : SysAdmin - Transfer Data Pinjaman 50
+20/01/2011 14:25:29 - User ID : SysAdmin - Transfer Data Estimasi 173
+20/01/2011 14:25:30 - User ID : SysAdmin - Transfer Data Estimasi Detail 723
+20/01/2011 14:25:30 - User ID : SysAdmin - Transfer Data Bayar 326
+20/01/2011 14:25:30 - User ID : SysAdmin - Transfer Data Kerja 206
+20/01/2011 14:25:30 - User ID : SysAdmin - Transfer Data Kerja Detail 758
+20/01/2011 14:25:31 - User ID : SysAdmin - Transfer Data Jurnal 1348
+20/01/2011 14:25:32 - User ID : SysAdmin - Direktori : D:\SWANDY\VFP\CEMERLANG\TEMP\
+20/01/2011 14:29:26 - User ID : SysAdmin - Transfer Data Tipe 7
+20/01/2011 14:29:26 - User ID : SysAdmin - Transfer Data Satuan 3
+20/01/2011 14:29:26 - User ID : SysAdmin - Transfer Data Rekening 95
+20/01/2011 14:29:26 - User ID : SysAdmin - Transfer Data Alat 0
+20/01/2011 14:29:27 - User ID : SysAdmin - Transfer Data Absensi 1142
+20/01/2011 14:29:27 - User ID : SysAdmin - Transfer Data Asuransi 51
+20/01/2011 14:29:27 - User ID : SysAdmin - Transfer Data Jasa 449
+20/01/2011 14:29:27 - User ID : SysAdmin - Transfer Data Kendaraan 786
+20/01/2011 14:29:27 - User ID : SysAdmin - Transfer Data Material 610
+20/01/2011 14:29:27 - User ID : SysAdmin - Transfer Data Merk 50
+20/01/2011 14:29:27 - User ID : SysAdmin - Transfer Data Pegawai 71
+20/01/2011 14:29:27 - User ID : SysAdmin - Transfer Data Pemilik 790
+20/01/2011 14:29:27 - User ID : SysAdmin - Transfer Data Pinjaman 50
+20/01/2011 14:29:27 - User ID : SysAdmin - Transfer Data Estimasi 191
+20/01/2011 14:29:27 - User ID : SysAdmin - Transfer Data Estimasi Detail 775
+20/01/2011 14:29:28 - User ID : SysAdmin - Transfer Data Bayar 342
+20/01/2011 14:29:28 - User ID : SysAdmin - Transfer Data Kerja 226
+20/01/2011 14:29:28 - User ID : SysAdmin - Transfer Data Kerja Detail 826
+20/01/2011 14:29:29 - User ID : SysAdmin - Transfer Data Jurnal 1369
+20/01/2011 14:29:30 - User ID : SysAdmin - Direktori : D:\SWANDY\VFP\CEMERLANG\TEMP\
+20/01/2011 14:31:06 - User ID : SysAdmin - Transfer Data Tipe 7
+20/01/2011 14:31:06 - User ID : SysAdmin - Transfer Data Satuan 3
+20/01/2011 14:31:06 - User ID : SysAdmin - Transfer Data Rekening 95
+20/01/2011 14:31:06 - User ID : SysAdmin - Transfer Data Alat 0
+20/01/2011 14:31:06 - User ID : SysAdmin - Transfer Data Absensi 1142
+20/01/2011 14:31:06 - User ID : SysAdmin - Transfer Data Asuransi 52
+20/01/2011 14:31:06 - User ID : SysAdmin - Transfer Data Jasa 449
+20/01/2011 14:31:06 - User ID : SysAdmin - Transfer Data Kendaraan 789
+20/01/2011 14:31:06 - User ID : SysAdmin - Transfer Data Material 613
+20/01/2011 14:31:06 - User ID : SysAdmin - Transfer Data Merk 50
+20/01/2011 14:31:06 - User ID : SysAdmin - Transfer Data Pegawai 71
+20/01/2011 14:31:06 - User ID : SysAdmin - Transfer Data Pemilik 794
+20/01/2011 14:31:06 - User ID : SysAdmin - Transfer Data Pinjaman 50
+20/01/2011 14:31:06 - User ID : SysAdmin - Transfer Data Estimasi 195
+20/01/2011 14:31:07 - User ID : SysAdmin - Transfer Data Estimasi Detail 787
+20/01/2011 14:31:07 - User ID : SysAdmin - Transfer Data Bayar 353
+20/01/2011 14:31:07 - User ID : SysAdmin - Transfer Data Kerja 229
+20/01/2011 14:31:07 - User ID : SysAdmin - Transfer Data Kerja Detail 835
+20/01/2011 14:31:08 - User ID : SysAdmin - Transfer Data Jurnal 1461
+20/01/2011 14:31:09 - User ID : SysAdmin - Direktori : D:\SWANDY\VFP\CEMERLANG\TEMP\
+20/01/2011 14:32:50 - User ID : SysAdmin - Transfer Data Tipe 7
+20/01/2011 14:32:50 - User ID : SysAdmin - Transfer Data Satuan 3
+20/01/2011 14:32:50 - User ID : SysAdmin - Transfer Data Rekening 96
+20/01/2011 14:32:50 - User ID : SysAdmin - Transfer Data Alat 0
+20/01/2011 14:32:50 - User ID : SysAdmin - Transfer Data Absensi 1142
+20/01/2011 14:32:51 - User ID : SysAdmin - Transfer Data Asuransi 52
+20/01/2011 14:32:51 - User ID : SysAdmin - Transfer Data Jasa 451
+20/01/2011 14:32:51 - User ID : SysAdmin - Transfer Data Kendaraan 799
+20/01/2011 14:32:51 - User ID : SysAdmin - Transfer Data Material 619
+20/01/2011 14:32:51 - User ID : SysAdmin - Transfer Data Merk 50
+20/01/2011 14:32:51 - User ID : SysAdmin - Transfer Data Pegawai 71
+20/01/2011 14:32:51 - User ID : SysAdmin - Transfer Data Pemilik 805
+20/01/2011 14:32:51 - User ID : SysAdmin - Transfer Data Pinjaman 50
+20/01/2011 14:32:51 - User ID : SysAdmin - Transfer Data Estimasi 208
+20/01/2011 14:32:51 - User ID : SysAdmin - Transfer Data Estimasi Detail 857
+20/01/2011 14:32:52 - User ID : SysAdmin - Transfer Data Bayar 375
+20/01/2011 14:32:52 - User ID : SysAdmin - Transfer Data Kerja 239
+20/01/2011 14:32:52 - User ID : SysAdmin - Transfer Data Kerja Detail 880
+20/01/2011 14:32:53 - User ID : SysAdmin - Transfer Data Jurnal 1564
+20/01/2011 14:32:54 - User ID : SysAdmin - Direktori : D:\SWANDY\VFP\CEMERLANG\TEMP\
+20/01/2011 14:36:05 - User ID : SysAdmin - Transfer Data Tipe 7
+20/01/2011 14:36:05 - User ID : SysAdmin - Transfer Data Satuan 3
+20/01/2011 14:36:05 - User ID : SysAdmin - Transfer Data Rekening 96
+20/01/2011 14:36:05 - User ID : SysAdmin - Transfer Data Alat 0
+20/01/2011 14:36:06 - User ID : SysAdmin - Transfer Data Absensi 1205
+20/01/2011 14:36:06 - User ID : SysAdmin - Transfer Data Asuransi 52
+20/01/2011 14:36:06 - User ID : SysAdmin - Transfer Data Jasa 458
+20/01/2011 14:36:06 - User ID : SysAdmin - Transfer Data Kendaraan 805
+20/01/2011 14:36:06 - User ID : SysAdmin - Transfer Data Material 625
+20/01/2011 14:36:06 - User ID : SysAdmin - Transfer Data Merk 50
+20/01/2011 14:36:06 - User ID : SysAdmin - Transfer Data Pegawai 71
+20/01/2011 14:36:06 - User ID : SysAdmin - Transfer Data Pemilik 811
+20/01/2011 14:36:06 - User ID : SysAdmin - Transfer Data Pinjaman 51
+20/01/2011 14:36:06 - User ID : SysAdmin - Transfer Data Estimasi 218
+20/01/2011 14:36:07 - User ID : SysAdmin - Transfer Data Estimasi Detail 924
+20/01/2011 14:36:07 - User ID : SysAdmin - Transfer Data Bayar 384
+20/01/2011 14:36:07 - User ID : SysAdmin - Transfer Data Kerja 248
+20/01/2011 14:36:07 - User ID : SysAdmin - Transfer Data Kerja Detail 923
+20/01/2011 14:36:08 - User ID : SysAdmin - Transfer Data Jurnal 1609
+20/01/2011 14:36:09 - User ID : SysAdmin - Direktori : D:\SWANDY\VFP\CEMERLANG\TEMP\

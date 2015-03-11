@@ -1,0 +1,72 @@
+
+11/10/2013 08:05:59 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS' is not found.
+11/10/2013 08:06:02 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS' is not found.
+11/10/2013 08:06:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KUANTITAS' is not found.
+11/10/2013 09:10:34 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Cannot open file d:\tyas\vfp\cemerlang\data\pemakai.dbf.
+11/10/2013 10:12:27 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'PRODUK_ID' is not found.
+11/10/2013 10:33:26 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KODE' is not found.
+12/10/2013 13:53:08 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Cannot open file d:\tyas\vfp\cemerlang\data\pakai.dbf.
+12/10/2013 14:07:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column '     ' is not found.
+12/10/2013 14:11:09 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Too many arguments.
+12/10/2013 14:11:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Too many arguments.
+12/10/2013 14:16:21 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+12/10/2013 14:16:25 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+12/10/2013 14:17:15 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+12/10/2013 14:17:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+12/10/2013 14:18:45 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+12/10/2013 14:18:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+12/10/2013 14:21:01 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+12/10/2013 14:30:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+12/10/2013 14:30:59 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+14/10/2013 15:13:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'KODE' is not found.
+21/10/2013 14:25:25 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column '     ' is not found.
+21/10/2013 14:25:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+21/10/2013 14:25:39 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Operator/operand type mismatch.
+21/10/2013 14:25:43 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column '     ' is not found.
+21/10/2013 14:25:47 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+21/10/2013 14:25:49 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+21/10/2013 16:58:33 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+21/10/2013 16:58:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+21/10/2013 17:01:55 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+21/10/2013 17:01:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+21/10/2013 17:04:20 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Function name is missing ).
+21/10/2013 17:04:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Function name is missing ).
+22/10/2013 09:31:03 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+22/10/2013 09:31:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+22/10/2013 09:33:03 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+22/10/2013 09:36:38 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Operator/operand type mismatch.
+22/10/2013 09:36:41 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Operator/operand type mismatch.
+22/10/2013 09:37:13 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+22/10/2013 09:37:16 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+22/10/2013 12:55:33 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+23/10/2013 11:09:20 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Cannot open file d:\tyas\vfp\cemerlang\data\opname.dbf.
+23/10/2013 13:50:53 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+23/10/2013 13:50:54 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+23/10/2013 14:02:25 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+23/10/2013 14:02:26 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+24/10/2013 11:13:02 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Cannot open file d:\tyas\vfp\cemerlang\data\koreksi.dbf.
+24/10/2013 11:13:04 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+24/10/2013 11:13:09 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Cannot open file d:\tyas\vfp\cemerlang\data\koreksi.dbf.
+24/10/2013 11:13:11 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Cannot open file d:\tyas\vfp\cemerlang\data\koreksi.dbf.
+24/10/2013 11:39:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Cannot open file d:\tyas\vfp\cemerlang\data\beli.dbf.
+24/10/2013 11:47:33 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Cannot open file d:\tyas\vfp\cemerlang\data\beli.dbf.
+24/10/2013 11:47:37 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Cannot open file d:\tyas\vfp\cemerlang\data\beli.dbf.
+24/10/2013 11:47:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Cannot open file d:\tyas\vfp\cemerlang\data\beli.dbf.
+24/10/2013 11:47:42 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Cannot open file d:\tyas\vfp\cemerlang\data\beli.dbf.
+24/10/2013 11:47:44 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Cannot open file d:\tyas\vfp\cemerlang\data\beli.dbf.
+24/10/2013 11:47:49 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Cannot open file d:\tyas\vfp\cemerlang\data\beli.dbf.
+25/10/2013 07:32:28 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Function name is missing ).
+25/10/2013 07:32:30 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+25/10/2013 07:32:34 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Function name is missing ).
+25/10/2013 07:32:35 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+28/10/2013 08:25:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Invalid argument value
+28/10/2013 08:25:20 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Operator/operand type mismatch.
+28/10/2013 08:25:22 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Invalid argument value
+28/10/2013 08:25:24 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+28/10/2013 08:26:25 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Operator/operand type mismatch.
+28/10/2013 08:26:29 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+28/10/2013 08:45:50 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Too many UNIONs.
+28/10/2013 08:47:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Too many UNIONs.
+28/10/2013 09:24:55 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Function argument value, type, or count is invalid.
+28/10/2013 09:25:44 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Function argument value, type, or count is invalid.
+28/10/2013 09:46:01 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Function argument value, type, or count is invalid.

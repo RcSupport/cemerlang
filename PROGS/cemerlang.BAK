@@ -1,0 +1,302 @@
+** 130315 - Procedure In Out Stok Produk
+Procedure fnInOutStok
+	Lparameters dTanggalAwal, dTanggalAkhir, cMaterial_ID
+	Local cWhere
+	LOCAL cwhere2
+	cWhere = ""
+
+	If !Empty(cMaterial_ID)
+		cWhere =;
+			"And dt.material_id = "+Alltrim(cMaterial_ID)+" "
+	Endif
+
+** 130315 - Panggil Kartu Stok
+	=fnKartuStok(dTanggalAwal, dTanggalAkhir, cMaterial_ID,.F.)
+	
+	
+** 130315 - Hitung Saldo Awal
+	Select kode, produk, Sum(masuk) As awal, 000000000000.00 As masuk,;
+		000000000000.00 As keluar, 000000000000.00 As akhir, Material_id;
+		FROM tKartuStok;
+		WHERE jenis = '01. Saldo Awal';
+		group By Material_id, kode, produk;
+		INTO Cursor tInOutStok Readwrite
+
+	** 130315 - Hitung Transaksi
+	Select kode, produk, Sum(masuk) As masuk, Sum(keluar) As keluar, Material_id;
+		FROM tKartuStok;
+		WHERE jenis <> '01. Saldo Awal';
+		group By Material_id, kode, produk;
+		INTO Cursor tTransaksi
+
+	** 130320 - Insert produk yang belum ada di saldo awal
+	Insert Into tInOutStok ( Material_id, kode, produk, awal );
+		SELECT T.Material_id, t.kode, t.produk, 0;
+		FROM tTransaksi T;
+		left Join tInOutStok tS On T.Material_id = tS.Material_id;
+		WHERE tS.Material_id Is Null
+
+	** 130320 - Update data masuk dan keluar
+	Update tInOutStok Set masuk = Nvl(tTransaksi.masuk,0.00),;
+		keluar =  Nvl(tTransaksi.keluar,0.00);
+		from tInOutStok Join tTransaksi On tInOutStok.Material_id = tTransaksi.Material_id
+
+	** 130320 - Update saldo akhir
+	Update tInOutStok Set;
+		akhir = Nvl(tInOutStok.awal,0.00) + Nvl(tInOutStok.masuk,0.00) - Nvl(tInOutStok.keluar,0.00);
+		from tInOutStok
+
+	Select * From tInOutStok;
+		WHERE awal <> 0 Or masuk <> 0 Or keluar <> 0 Or akhir <> 0;
+		INTO Cursor tInOutStok
+
+	Use In tKartuStok
+	Use In tTransaksi
+ENDPROC 
+
+** 130816 - Procedure Buat Hitung ulang stok
+PROCEDURE fnHitungUlangStok
+	=fnKartuStok(DATE(), DATE(), '',.T.)
+		WAIT WINDOW "Mulai Transfer Data..." Nowait	
+		LOCAL cCommand, cField
+		LOCAL nConn, oProgBar
+		STORE SQLSTRINGCONNECT(_SCREEN.pConnection_Name) TO nConn
+		
+		IF nConn < 0
+			WAIT WINDOW "Tidak Dapat Koneksi ke Database" TIMEOUT 2 
+			RETURN .F.
+		ENDIF 
+		
+		SET CLASSLIB TO libs\_therm.vcx ADDITIVE 
+	    oProgBar = CREATEOBJECT("_Thermometer")       
+		oProgBar.Show()
+		
+	SELECT tKartuStok
+	GO TOP IN tKartuStok
+	SCAN ALL
+	oProgBar.Update(RECNO("tKartuStok")/RECCOUNT("tKartuStok")*100,"Import Saldo...   "+ALLTRIM(STR(RECNO("tKartuStok")))+" dari "+ALLTRIM(STR(RECCOUNT("tKartuStok"))))
+	
+	WAIT WINDOW "Hitung Ulang Stok...."+ALLTRIM(STR(RECNO("tKartuStok")))+" of "+ALLTRIM(STR(RECCOUNT("tKartuStok"))) NOWAIT
+	
+		=fnRequery("UPDATE material SET kuantitas=?tKartuStok.akhir WHERE material_id=?tKartuStok.material_id ")
+	ENDSCAN 
+ENDPROC
+
+** 130417 - Procedure Buat kartu Stok Produk
+Procedure fnKartuStok
+	Lparameters dTanggalAwal, dTanggalAkhir, cMaterial_ID,bHitung
+	Local cWhere, cwhere2, cMutasi
+	cWhere = ""
+	cwhere2 = ""
+	cMutasi = ""
+	IF !bHitung
+		IF .opggudang01.Value = 1
+			cwhere2 = "AND p.gudangb=1 "
+			ELSE
+			cwhere2 = "AND p.gudang=1 "
+		ENDIF	
+	ENDIF
+	If !Empty(cMaterial_ID)
+		cWhere = cWhere+;
+			"And dt.material_id = "+Alltrim(STR(cMaterial_ID))+" "
+	Endif
+	
+	fnRequery("Select LEFT(dt.kode,10) as kode, LEFT(dt.nama,50) as produk, dt.Material_id "+;
+		"From Material dt "+;
+			"Where dt.aktif = 1 "+cWhere,"_tMaterial")
+	
+			
+	PUBLIC pdTanggalPass
+	pdTanggalPass = dTanggalAkhir
+			
+	cWhere = "Where mt.tanggal <= ?pdTanggalPass "+cWhere + cwhere2	
+	
+	IF .opggudang01.value=1
+		cMutasi="UNION ALL "+;	&& Mutasi Dari Gudang Besar ke Gudang Kecil
+		"SELECT mt.mutasi_no as bukti_no, mt.tanggal, dt.material_id, "+;
+			"000000000000.00 as masuk, NVL(dt.kuantitas,0.00) as keluar, 'Mutasi' as Jenis, "+;
+			"ltrim(NVL(dt.ket,'')) + '(' + ltrim(IIF(dt.gudang01=1,'Kecil','Besar'))+' ke "+;
+			"'+LTRIM(IIF(dt.gudang02=2,'Besar','Kecil'))+')' as ket "+;
+		"FROM Mutasi_Detail dt "+;
+		"JOIN Mutasi mt ON dt.mutasi_no = mt.mutasi_no "+;
+		"LEFT JOIN material p ON p.material_id = dt.material_id "+;
+		cWhere+;
+		"UNION ALL "+; && Pembelian Gudang Besar
+		"SELECT mt.beli_no as bukti_no, mt.tanggal, dt.material_id, "+;
+		"NVL(dt.kuantitas,0.00) as masuk, 000000000000.00 as keluar, 'Beli' as Jenis, SUBSTR(p2.nama,50) as ket "+;
+		"FROM beli_detail dt "+;
+		"JOIN beli mt ON dt.beli_no = mt.beli_no "+;
+		"LEFT JOIN pemasok p2 ON p2.pemasok_id=mt.pemasok_id "+;
+		"LEFT JOIN material p ON p.material_id = dt.material_id "+;
+		cWhere+;
+		"UNION ALL "+;	&& Retur Beli Ke Supplier
+		"SELECT mt.retur_no as bukti_no, mt.tanggal, dt.material_id, "+;
+			"000000000000.00 as masuk, NVL(dt.kuantitas,0.00) as keluar, 'Retur Beli' as Jenis, SUBSTR(p2.nama,50) as ket "+;
+			"FROM retur_detail dt "+;
+			"JOIN Retur mt ON dt.retur_no = mt.retur_no "+;
+			"LEFT JOIN Pemasok p2 ON p2.pemasok_id = mt.pemasok_id "+;
+			"LEFT JOIN material p ON p.material_id = dt.material_id "+;
+		cWhere
+		
+	ENDIF
+	IF .opggudang01.value=2
+		cMutasi="UNION ALL "+;
+		"SELECT mt.pakai_no as bukti_no, mt.tanggal, dt.material_id, "+;
+			"000000000000.00 as masuk, NVL(dt.kuantitas,0.00) as keluar, "+;
+			"'Pakai' as Jenis, SUBSTR(p.nama,50) as ket "+;
+			"FROM pakai_detail dt "+;
+			"JOIN pakai mt ON dt.pakai_no = mt.pakai_no "+;
+			"LEFT JOIN material p ON p.material_id = dt.material_id "+;
+		cWhere+;
+		"UNION ALL "+;&& Mutasi Dari Gudang Besar ke Gudang Kecil
+		"SELECT mt.mutasi_no as bukti_no, mt.tanggal, dt.material_id, "+;
+			"NVL(dt.kuantitas,0.00) as masuk, 000000000000.00  as keluar, 'Mutasi' as Jenis, "+;
+			"ltrim(NVL(dt.ket,'')) + '(' + ltrim(IIF(dt.gudang01=1,'Kecil','Besar'))+' ke "+;
+			"'+LTRIM(IIF(dt.gudang02=2,'Besar','Kecil'))+')' as ket "+;
+		"FROM Mutasi_Detail dt "+;
+		"JOIN Mutasi mt ON dt.mutasi_no = mt.mutasi_no "+;
+		"LEFT JOIN material p ON p.material_id = dt.material_id "+;
+		cWhere
+	ENDIF
+	
+	
+	cCommand =; && koreksi
+	"SELECT  mt.koreksi_no as bukti_no, mt.tanggal, dt.material_id, "+;
+			"NVL(dt.kuantitas,0.00) as masuk, 000000000000.00 as keluar, 'Koreksi' as Jenis, mt.ket as ket "+;
+		"FROM koreksi_detail dt "+;
+		"JOIN koreksi mt on dt.koreksi_no = mt.koreksi_no "+;
+		"LEFT JOIN material p ON p.material_id = dt.material_id "+;
+	cWhere+;
+	cMutasi+;
+	"UNION ALL "+;	&& Opname
+	"SELECT mt.opname_no as bukti_no, mt.tanggal, dt.material_id, "+;
+			" NVL(dt.kuantitas_op,0.00)-NVL(dt.kuantitas,0.00) as masuk, 000000000000.00 as keluar, "+;
+			"'Opname' as Jenis, SUBSTR(p.nama,50) as ket "+;
+			"FROM opname_detail dt "+;
+			"JOIN opname mt ON dt.opname_no = mt.opname_no "+;
+			"LEFT JOIN material p ON p.material_id = dt.material_id "+;
+	cWhere
+	
+	=fnRequery(cCommand,"tStok")	
+	RELEASE pdTanggalPass
+	
+	
+	** 130315 - Gabungkan data saldo awal dan data transaksi
+	Select 'Saldo Awal' as bukti_no, dTanggalAwal - 1 as tanggal, material_id,;
+		 SUM(nvl(masuk,0) - NVL(keluar,0)) as masuk, 0000000.00 as keluar, '01. Saldo Awal' as jenis, 'Saldo Awal' as ket From tStok;
+		WHERE tanggal < dTanggalAwal;
+		GROUP BY material_id;
+		UNION All;
+		SELECT * From tStok;
+		WHERE tanggal between dTanggalAwal AND dTanggalAkhir;
+		INTO Cursor tKStok
+
+	Select t.bukti_no, t.tanggal, p.kode, p.produk, t.masuk, t.keluar, 0000000.00 as akhir, t.jenis, t.ket, t.material_id;
+	 From tKStok t;
+	 	LEFT JOIN _tMaterial p ON t.material_id = p.material_id;
+		ORDER By t.material_id, t.Tanggal, t.ket;
+		INTO Cursor tKartuStok Readwrite
+
+
+	** 130315 - Hitung Saldo Akhir
+	Local nAkhir, nHrgAkhir, nProduk
+	Store 0 To nAkhir, nHrgAkhir
+	STORE 0 TO nProduk
+	Select tKartuStok 
+	Scan All
+		** 130315 - Reset Saldo Akhir
+		IF tKartuStok.material_id <> nProduk
+			STORE 0 TO nAkhir, nHrgAkhir
+		ENDIF 
+		nAkhir = nvl(nAkhir,0) + NVL(masuk,0) - NVL(keluar,0)
+*!*			nHrgAkhir = NVL(nHrgAkhir,0) + NVL(harga_masuk,0) - NVL(harga_jual,0)
+		Replace akhir With nAkhir In tKartuStok 
+		nProduk = tKartuStok.material_id
+	Endscan
+	Go Top In tKartuStok
+	Use In tStok
+	USE IN tKStok
+	USE IN _tMaterial
+	
+	
+ENDPROC	
+
+PROCEDURE fnPinjaman
+	LPARAMETERS dTanggalAwal, dTanggalAkhir, nPegawaiId
+	PUBLIC pdTanggalAwal, pdTanggalAkhir
+	LOCAL cPinjam, cPinjamAbsen, cAwal, cAwalAbsen, cWhere
+	
+	STORE dTanggalAwal TO pdTanggalAwal	
+	STORE dTanggalAkhir TO pdTanggalAkhir
+	
+	STORE "" TO cWhere
+	
+	** 100520 -my birthday ;)-
+	IF !EMPTY(nPegawaiId)
+		cWhere = cWhere + " AND PG.Pegawai_Id = "+ALLTRIM(STR(nPegawaiId)) + " "
+	ENDIF
+		* 20052010 -- Saldo Awal di Pinjaman
+		cAwal = "SELECT PG.NIK, PG.Nama AS Pegawai, PG.Divisi, SUM(NVL(P.Total,0)) AS Debet, 000000000000.00 AS Kredit "+;
+					"FROM Pinjaman P "+;
+					"LEFT JOIN Pegawai PG ON P.Pegawai_Id = PG.Pegawai_Id "+;
+					"WHERE P.Tanggal < ?pdTanggalAwal " + cWhere +;
+					" GROUP BY PG.NIK, PG.Pegawai_Id, PG.Divisi "
+		
+		
+*!*			* 20052010 -- Saldo Awal di Absensi			
+*!*			cAwalAbsen = "SELECT PG.NIK, PG.Nama AS Pegawai, PG.Divisi, SUM(NVL(P.Pinjaman,0)) AS Debet, SUM(NVL(P.Potongan_Lain,0)) AS Kredit "+;
+*!*						"FROM Absensi P "+;
+*!*						"LEFT JOIN Pegawai PG ON P.Pegawai_Id = PG.Pegawai_Id "+;
+*!*						"WHERE P.Tanggal < ?pdTanggalAwal "	+ cWhere +;
+*!*						" GROUP BY PG.NIK, PG.Pegawai_Id, PG.Divisi "		
+
+
+		**S 101006 -- Saldo Awal di Absensi (total pinjaman dan total potongan lain) dipindah ke kredit
+		cAwalAbsen = "SELECT PG.NIK, PG.Nama AS Pegawai, PG.Divisi, 000000000000.00 AS Debet, (SUM(NVL(P.Pinjaman,0)) + SUM(NVL(P.Potongan_Lain,0))) AS Kredit "+;
+					"FROM Absensi P "+;
+					"LEFT JOIN Pegawai PG ON P.Pegawai_Id = PG.Pegawai_Id "+;
+					"WHERE P.Tanggal < ?pdTanggalAwal "	+ cWhere +;
+					" GROUP BY PG.NIK, PG.Pegawai_Id, PG.Divisi "
+					
+		=fnRequery(cAwal + " UNION ALL " + cAwalAbsen, "tPinjamAwal")
+		
+    	
+    	* 20052010 -- Detail data antara tanggal awal sampai tanggal akhir di pinjaman
+       	cPinjam = "SELECT PG.NIK, PG.Nama AS Pegawai, PG.Divisi, P.Tanggal, NVL(P.Total,0) AS Debet, 000000000000.00 AS Kredit "+;
+					"FROM Pinjaman P "+;
+					"LEFT JOIN Pegawai PG ON P.Pegawai_Id = PG.Pegawai_Id "+;
+					"WHERE P.Tanggal BETWEEN ?pdTanggalAwal AND ?pdTanggalAkhir " + cWhere
+					
+					
+		
+*!*			* 20052010 -- Detail Data antara tanggal awal sampai tanggal akhir di absensi			
+*!*			cPinjamAbsen = "SELECT PG.NIK, PG.Nama AS Pegawai, PG.Divisi, P.Tanggal, NVL(P.Pinjaman,0) AS Debet, NVL(P.Potongan_Lain,0) AS Kredit "+;
+*!*						"FROM Absensi P "+;
+*!*						"LEFT JOIN Pegawai PG ON P.Pegawai_Id = PG.Pegawai_Id " +;
+*!*						"WHERE P.Tanggal BETWEEN ?pdTanggalAwal AND ?pdTanggalAkhir " + cWhere
+
+
+
+		**S 101006 -- Detail Data antara tanggal awal sampai tanggal akhir di absensi (pinjaman dan potongan lain dijumlah)
+		cPinjamAbsen = "SELECT PG.NIK, PG.Nama AS Pegawai, PG.Divisi, P.Tanggal, 000000000000.00 AS Debet, (NVL(P.Pinjaman,0) + NVL(P.Potongan_Lain,0)) AS Kredit "+;
+					"FROM Absensi P "+;
+					"LEFT JOIN Pegawai PG ON P.Pegawai_Id = PG.Pegawai_Id " +;
+					"WHERE P.Tanggal BETWEEN ?pdTanggalAwal AND ?pdTanggalAkhir " + cWhere
+
+			
+		=fnRequery(cPinjam + " UNION ALL " + cPinjamAbsen, "_tPinjam")
+		
+		* 20052010 -- INSERT data saldo awal
+		INSERT INTO _tPinjam (NIK, Pegawai, Divisi, Tanggal, Debet, Kredit);
+			SELECT NIK, Pegawai, Divisi, pdTanggalAwal - 1, Debet, Kredit;
+				FROM tPinjamAwal
+		
+		* 20052010 -- create cursor		
+		SELECT NIK, Pegawai, Divisi, Tanggal, Debet, Kredit, '' as Keterangan FROM _tPinjam;
+			INTO CURSOR _tPinjaman;
+			ORDER BY NIK, Tanggal
+	
+	RELEASE pdTanggalAwal, pdTanggalAkhir
+ENDPROC 
+
+

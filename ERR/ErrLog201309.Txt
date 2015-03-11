@@ -1,0 +1,76 @@
+
+03/09/2013 15:45:59 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Variable 'SUBTOTAL' is not found.
+04/09/2013 09:17:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Cannot open file d:\tyas\laporan\8.agustus\2013.08.22\program\cemerlang\data\koreksi.dbf.
+04/09/2013 09:17:30 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Cannot open file d:\tyas\laporan\8.agustus\2013.08.22\program\cemerlang\data\koreksi.dbf.
+04/09/2013 09:17:31 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Cannot open file d:\tyas\laporan\8.agustus\2013.08.22\program\cemerlang\data\koreksi.dbf.
+04/09/2013 10:43:44 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Function name is missing ).
+04/09/2013 13:43:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+04/09/2013 13:43:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+04/09/2013 13:43:54 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+04/09/2013 13:43:55 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+04/09/2013 13:44:19 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+04/09/2013 13:44:21 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+10/09/2013 10:53:48 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+10/09/2013 10:54:03 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+23/09/2013 08:20:54 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:20:56 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:20:56 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:20:56 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:20:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:20:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:20:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:20:58 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:20:59 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:20:59 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:20:59 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:01 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:01 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:01 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:01 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:02 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:02 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:02 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:02 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:02 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:03 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:03 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:03 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:03 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:03 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:08 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:08 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:08 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:08 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:08 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:08 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 08:21:08 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column 'STOK' is not found.
+23/09/2013 11:14:52 - User ID : SysAdmin - Error No.   :         10,Error Message : Syntax error.
+23/09/2013 11:14:54 - User ID : SysAdmin - Error No.   :         10,Error Message : Syntax error.
+23/09/2013 11:15:25 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column '     ' is not found.
+23/09/2013 11:15:37 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column '     ' is not found.
+23/09/2013 11:15:52 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column '     ' is not found.
+23/09/2013 11:16:26 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column '     ' is not found.
+23/09/2013 11:18:49 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Unrecognized command verb.
+23/09/2013 11:22:01 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]Command contains unrecognized phrase/keyword.
+23/09/2013 11:23:45 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column '     ' is not found.
+23/09/2013 11:39:54 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC Visual FoxPro Driver]SQL: Column '     ' is not found.

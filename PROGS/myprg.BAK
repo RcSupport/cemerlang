@@ -1,0 +1,84 @@
+
+** 120628 - Procedure untuk pengecekan suhu Processor
+Procedure fnSuhu
+	wbemServices=Getobject("winmgmts:" + "\\localhost\root\wmi")
+	wbemObjectSet=wbemServices.InstancesOf("MSAcpi_ThermalZoneTemperature")
+	For Each Item In wbemObjectSet
+		iSuhu = (Item.CurrentTemperature - 2732) / 10
+	Endfor
+	Return iSuhu
+Endproc
+
+** 120628 - Procedure untuk pengecekan usage Processor
+Procedure fnProcName
+	objWMIService = Getobject("winmgmts:" ;
+		+ "{impersonationLevel=impersonate}!\\" + "."+ "\root\cimv2")
+	colItems  =  objWMIService.ExecQuery( ;
+		"Select  *  from  Win32_Processor")
+	For  Each  objItem  In  colItems
+		cName = objItem.Name
+	Endfor
+Endproc
+
+Procedure fnPrintScreen
+	cFile=Getfile("Bitmap Image:bmp","Nama Gambar", ;
+		"&Simpan",0,"Simpan Gambar Hasil Capture")
+	If(Empty(cFile))
+		Return .F.
+	Endif
+	Declare Integer formtobmp In "PCT_DLL.dll" Integer HWnd, ;
+		String bmpFileName
+	retVal = formtobmp(0,cFile)
+	If retVal = 0
+		Messagebox("Capture Screen Berhasil!")
+	Else
+		Messagebox("Capture Screen Gagal!")
+	Endif
+ENDPROC
+
+PROCEDURE fnKoneksiInternet
+	DECLARE Long InternetCheckConnection IN Wininet.dll String Url,;
+	Long dwFlags, Long Reserved
+	lcUrl = "http://www.google.com"
+	RETURN IIF(InternetCheckConnection(lcUrl, 1, 0) <> 0,.T.,.F.)
+ENDPROC 
+
+LOCAL lnparms, lcroot, lcvolumename, lnvolumesize, lnserialno,;
+	lncomplen, lnsysflags, lcsysname, lnnamesize
+
+STORE 0 TO lnserialno, lncomplen, lnsysflags
+STORE SPACE(260) TO lcvolname, lcsysname
+STORE LEN(lcvolname) TO lnvolsize, lnnamesize
+
+* Declare windows API
+DECLARE SHORT GetVolumeInformation IN Win32API;
+	STRING @lpRootPathName, STRING @lpVolumeNameBuffer,;
+	INTEGER nVolumeNameSize, INTEGER @lpVolumeSerialNumber,;
+	INTEGER @lpMaximumComponentLength, INTEGER @lpFileSystemFlags,;
+	STRING @lpFileSystemNameBuffer, INTEGER nFileSystemNameSize
+
+lcroot = "C:\"
+lcolddec = SET('DECIMALS')
+SET DECIMALS TO 0
+
+*-- Get the volume information and return the number or false
+IF getvolumeinformation(@lcroot, @lcvolname, lnvolsize, @lnserialno,;
+		@lncomplen, @lnsysflags, @lcsysname, lnnamesize) # 0
+	DO CASE
+		CASE lnserialno < 0 AND lnserialno > -4294967296
+			lnserialno = VAL(TRANSFORM(-lnserialno, '@O'))
+
+		CASE lnserialno > 0 AND lnserialno < 4294967296
+			lnserialno = VAL(TRANSFORM(lnserialno, '@O'))
+
+	ENDCASE
+	SET DECIMALS TO lcolddec
+*!*		THIS.nserialnumber = lnserialno
+	lcMess = alltrim(str(lnserialno))
+	RETURN .T.
+ELSE
+	SET DECIMALS TO lcolddec
+*!*		THIS.nserialnumber = 
+	lcMess = [555556789]
+	RETURN .F.
+ENDIF

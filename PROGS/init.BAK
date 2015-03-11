@@ -1,0 +1,121 @@
+SET PROCEDURE TO PROGS\MyProc.prg ADDITIVE 
+SET PROCEDURE TO PROGS\kertas.prg ADDITIVE 
+SET CLASSLIB TO libs\_therm.vcx ADDITIVE 
+SET CLASSLIB TO libs\rc.vcx ADDITIVE 
+
+** Declare Variable
+PUBLIC ATT_CAPTION
+PUBLIC gcFileCommand
+PUBLIC gcCompany, gcAddress, gcCity, gcPhone, gcFax
+PUBLIC gcUser, gcSysUser, gnUserID
+PUBLIC gnTanggal_Periode
+PUBLIC gcDateFormat
+PUBLIC gnSec
+
+ON ERROR DO fnError with ERROR( ), MESSAGE( ), MESSAGE(1), PROGRAM( ), LINENO( )
+
+
+** Standar Variabel
+gcUser = "SysAdmin"
+gnUserID = 2
+gcFileCommand = 'DATA\command.ini'
+gnTanggal_Periode = 15
+gcDateFormat = "BRITISH"
+gnSec = 3000
+
+** 081105 - Create Property Connection di _SCREEN
+=ADDPROPERTY(_SCREEN,'pConnection',0)
+
+** 081112 - Create Property Nama Connection di _SCREEN
+=ADDPROPERTY(_SCREEN,'pConnection_Name',0)
+=ADDPROPERTY(_SCREEN,'pError',.F.)
+
+** Baca Variabel Program
+IF !FILE('DATA\conn.kon')
+	MESSAGEBOX('Init File Missing ...!',64,'File Missing')	
+	DO progs\cleanup.prg
+ELSE 
+	**jika file ada lakukan pembacaan
+	ATT_CAPTION = fnDekrip(fnRead('Variable','inisial','DATA\conn.kon'))
+	gcCompany = fnDekrip(fnRead('Variable','company','DATA\conn.kon'))
+	gcAddress = fnDekrip(fnRead('Variable','address','DATA\conn.kon'))
+	gcCity = fnDekrip(fnRead('Variable','city','DATA\conn.kon'))
+	gcPhone = fnDekrip(fnRead('Variable','phone','DATA\conn.kon'))
+	gcFax = fnDekrip(fnRead('Variable','fax','DATA\conn.kon'))
+	
+	**Cek Variabel
+	IF TYPE(gcCompany) = "L" OR TYPE( gcAddress) = "L" OR;
+	TYPE(gcCity) = "L" OR TYPE(gcPhone) = "L" OR;
+	TYPE(gcFax) = "L"
+		=MESSAGEBOX('Variabel Missing ...!',64,'Variabel Missing')
+		DO progs\cleanup.prg
+	ENDIF 
+	
+	** Baca Koneksi di File *.kon 
+	LOCAL cType, cServer, cDatabase, cUser, cPass
+	
+	** Set Variable
+	cType = fnDekrip(fnRead('Connection','type','DATA\conn.kon'))	
+	cServer = fnDekrip(fnRead('Connection','server','DATA\conn.kon'))
+	cDatabase = fnDekrip(fnRead('Connection','database','DATA\conn.kon'))
+	cUser = fnDekrip(fnRead('Connection','user','DATA\conn.kon'))
+	cPass = fnDekrip(fnRead('Connection','pass','DATA\conn.kon'))
+	
+	** Jika ada Variable yang Kosong, aktifkan FORM SETUP
+	IF EMPTY(cType) OR EMPTY(cDatabase)
+		DO FORM forms\utils\aturan.scx
+		RETURN .F.
+	ENDIF 	
+	
+	** 081105 - Tutup Semua Koneksi
+	=SQLDISCONNECT(0)
+	 	
+ 	** 081112 - Jika Koneksi Berhasil, Catat tipe Koneksi
+ 	_SCREEN.pConnection_Name = fnConnType(cType, cServer, cUser, cPass, cDatabase)
+ 	STORE SQLSTRINGCONNECT(_SCREEN.pConnection_Name) TO nConn 	
+ 	
+	** 081105 - Cek, ada aktif Koneksi
+ 	IF nConn <= 0
+ 		_MsgErrorConnection()
+ 		=fnTextFile("Error No.   : 001 -- Init, " + CHR(13) + "Error Message : Tidak Dapat Koneksi", "ErrLog.Txt", .T.)
+ 		
+ 		** Tutup Program
+		DO progs\cleanup.prg
+ 		RETURN .F.
+ 	ENDIF  	
+ 	
+ 	** 081112 - Tutup Koneksi yang dibuat
+ 	=fnDisConnect(nConn)
+ENDIF
+
+**Ambil System (Windows) User
+gcSysUser = PADR(UPPER(ALLTRIM(SUBSTR(SYS(0),ATC('#',SYS(0))+1))),8)
+
+SET BELL ON
+SET CENTURY ON 
+SET CENTURY TO 19 ROLLOVER 80
+SET CURRENCY TO 'Rp'
+SET DATE &gcDateFormat 
+SET DEBUG OFF
+SET DECIMAL TO 2
+SET DELETED ON 
+SET DELIMITER OFF
+SET ECHO OFF 
+SET EXACT ON 
+SET EXCLUSIVE OFF
+SET FIXED OFF
+SET KEYCOMP TO WINDOWS
+SET MEMOWIDTH TO 61
+SET NOTIFY OFF 
+SET OPTIMIZE ON 
+SET SAFE OFF
+SET SCORE OFF
+SET STATUS BAR ON
+SET STATUS OFF
+SET TALK OFF
+
+SET EXCLUSIVE OFF
+SET MULTILOCKS ON 
+SET NULLDISPLAY TO ' '
+SET SYSMENU OFF
+SET HOURS TO 24
